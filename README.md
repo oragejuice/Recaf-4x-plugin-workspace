@@ -1,6 +1,6 @@
 # Recaf plugin workspace
 
-This is a sample maven workspace for creating plugins for Recaf `4.X`.
+This is a sample gradle workspace for creating plugins for Recaf `4.X`.
 
 ## Plugin documentation
 
